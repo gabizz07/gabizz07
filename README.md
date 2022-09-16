@@ -1,9 +1,9 @@
 #SOBRE MIM
 
-- 👋 olá, meu nome é @gabizz07
-- 👀 meu email de contato é gabriele.zavadzki@escola.pr.gov.br
-- 🌱 estou interessada em aprender novas linguagens
-- 💞️ estou aprendendo a programar recentemente as linguagens JavaScript e Scratch
+- 👋 Olá, meu nome é @gabizz07
+- 👀 Meu email de contato é gabriele.zavadzki@escola.pr.gov.br
+- 🌱 Estou interessada em aprender novas linguagens
+- 💞️ Estou aprendendo a programar recentemente as linguagens JavaScript e Scratch
 
 
 <!---
